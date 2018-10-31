@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mini Pocket GPS</string>
+    <string name="title_activity_my_navigation">Mini Pocket GPS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_location">Map</string>
+
+
+
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstional_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="directions_api"></string>
+</resources>

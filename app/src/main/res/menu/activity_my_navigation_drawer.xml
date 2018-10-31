@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myLocation"
+            android:icon="@drawable/location_mini"
+            android:title="My Location" />
+        <item
+            android:id="@+id/nav_routeFinder"
+            android:icon="@drawable/directionmini"
+            android:title="Route Finder" />
+        <item
+            android:id="@+id/nav_streetview"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Street View" />
+        <item
+            android:id="@+id/nav_nearby"
+            android:icon="@drawable/placemini"
+            android:title="Nearby Places" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/aboutmini"
+            android:title="About Developer" />
+    </group>
+
+
+</menu>
